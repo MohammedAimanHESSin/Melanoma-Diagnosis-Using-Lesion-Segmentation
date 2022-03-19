@@ -40,3 +40,12 @@ LR = 0.01              |  LR = 0.01  |  LR = 0.001
 :-------------------------:|:-------------------------: |:-------------------------: 
 ![This is an image](https://github.com/habiib1999/Melanoma-Diagnosis-Using-Lesion-Segmentation/blob/main/Results/UNet1.jpeg)  |  ![This is an image](https://github.com/habiib1999/Melanoma-Diagnosis-Using-Lesion-Segmentation/blob/main/Results/UNet01.jpeg) |  ![This is an image](https://github.com/habiib1999/Melanoma-Diagnosis-Using-Lesion-Segmentation/blob/main/Results/UNet001.jpeg)
 
+
+## Authors
+- **[Moahmmed Aiman](https://github.com/MohammedAimanHESSin)**
+- **[Osama Sherif](https://github.com/osamasherif22)**
+- **[Abdulrahman Habib](https://github.com/habiib1999)**
+- **[Ahmed Ashraf](https://github.com/ashraf336)**
+
+---
+_This README made with ❤️ by [Moahmmed Aiman](https://github.com/MohammedAimanHESSin) & [Osama Sherif](https://github.com/osamasherif22)_ 
