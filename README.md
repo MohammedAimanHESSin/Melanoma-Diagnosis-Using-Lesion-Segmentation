@@ -6,7 +6,7 @@ We used **ISIC’s 2017** train, validation and test sets.
 - The Train set consists of: 2000 images along with their ground truth masks and superpixel images(discard for this assignment).
 - The mask would contain 2 values: 0 for background and 255 for foreground.
 - During training we converted the mask to 0, and 1 values before feeding it to the network.
-- The resized data is available at the following **[link](www.kaggle.com/dataset/536bd89301ea318c98b9c1baa7edc57b5d30ecc9e2d807f45d77e9ef7491adfb)**. 
+- The resized data is available at the following **[link](https://www.kaggle.com/dataset/536bd89301ea318c98b9c1baa7edc57b5d30ecc9e2d807f45d77e9ef7491adfb)**. 
 
 Image             |  Segmentation Mask 
 :-------------------------:|:-------------------------:
